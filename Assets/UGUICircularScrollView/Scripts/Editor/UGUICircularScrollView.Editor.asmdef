@@ -1,0 +1,17 @@
+{
+    "name": "UGUICircularScrollView.Editor",
+    "references": [
+        "GUID:0dfa1afe15f3baa419f1c9908efb13a5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
